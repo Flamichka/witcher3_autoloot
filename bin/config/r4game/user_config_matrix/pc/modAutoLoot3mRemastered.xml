@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserConfig>
+  <Group id="AL3mSettings" displayName="Mods.AL3mTitle">
+    <PresetsArray>
+      <Preset id="0" displayName="settings_default">
+        <Entry varId="Enabled" value="true"/>
+        <Entry varId="Radius" value="3"/>
+      </Preset>
+    </PresetsArray>
+    <VisibleVars>
+      <Var id="Enabled" displayName="Enable AutoLoot" displayType="TOGGLE" tags="nonLocalizedName"/>
+      <Var id="Radius" displayName="AutoLoot radius (m)" displayType="SLIDER;1;6;5" tags="nonLocalizedName"/>
+    </VisibleVars>
+  </Group>
+</UserConfig>
